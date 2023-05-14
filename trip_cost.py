@@ -165,7 +165,8 @@ def run_car_trip_cost_calculator():
     """
         Serves as the entry point for running the car trip cost calculator.
         Displays a welcome message and a separator line.
-        Calls the other functions in a loop to collect the necessary information from the user and calculate the trip cost.
+        Calls the other functions in a loop to collect the necessary information from the user
+        and calculate the trip cost.
         If all the required inputs are valid, it displays the total cost of the trip.
         The loop continues until a valid trip cost is calculated.
         """
